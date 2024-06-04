@@ -14,9 +14,9 @@ function App() {
             Shivika Mittal
           </a>
           and is on
-          <a href="https://github.com/Shivika2934/she-codes">Github</a> and
+          <a href="https://github.com/Shivika2934/react-app">Github</a> and
           hosted on
-          <a href="https://weather-app-shivika2934.netlify.app/">Netlify</a>
+          <a href="https://main--super-sundae-82deb3.netlify.app/">Netlify</a>
         </p>
       </footer>
     </div>
